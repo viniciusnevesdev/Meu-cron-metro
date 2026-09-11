@@ -1,3 +1,7 @@
+> [!WARNING]
+> **REPOSITÓRIO LEGADO — NÃO USAR PARA DESENVOLVIMENTO ATUAL.**  
+> O projeto ativo está em `viniciusnevesdev/Devoloper-meu-cronometro`. Este repositório foi mantido apenas como referência histórica.
+
 # Cronômetro — PWA local para iPhone
 
 PWA pessoal em **HTML + CSS + JavaScript puro**, hospedável no GitHub Pages, sem backend, assinatura ou serviço pago. Banco principal: **IndexedDB `cronometro_local_v1`**. Cache offline: Service Worker.
